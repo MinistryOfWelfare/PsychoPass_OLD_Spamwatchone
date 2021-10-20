@@ -1,11 +1,11 @@
 [package]
-name = "SpamWatchAPI"
+name = "PsychoPass"
 version = "0.4.0"
-authors = ["SitiSchu <admin@sitischu.com>"]
+authors = ["Kaizoku <admin@animekaizoku.com>"]
 edition = "2018"
 description = "API for t.me/SpamWatch to query User IDs for their ban status and reason."
-homepage = "https://github.com/SpamWatch/SpamWatchAPI"
-repository = "https://github.com/SpamWatch/SpamWatchAPI"
+homepage = "https://github.com/AnimeKaizoku/PsychoPass"
+repository = "https://github.com/AnimeKaizoku/PsychoPass"
 license = "AGPL-3.0"
 
 [dependencies]
