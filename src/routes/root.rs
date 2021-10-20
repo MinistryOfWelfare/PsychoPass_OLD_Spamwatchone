@@ -26,9 +26,9 @@ pub fn info() -> HttpResponse {
         &env!("CARGO_PKG_AUTHORS"),
         &env!("CARGO_PKG_DESCRIPTION"),
         safe_href("GitHub", &env!("CARGO_PKG_REPOSITORY")),
-        safe_href("Channel", "https://t.me/SibylSystem"),
+        safe_href("Channel", "https://telegram.dog/SibylSystem"),
         safe_href("Documentation", "https://docs.spamwat.ch"),
-        safe_href("Get an access token", "https://https://t.me/SibylRobot?start=token")
+        safe_href("Get an access token", "https://telegram.dog/SibylRobot?start=token")
     );
     HttpResponse::Ok().content_type("text/html").body(body)
 }
