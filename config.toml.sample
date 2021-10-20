@@ -6,10 +6,12 @@ masterid = 792109647
 
 [database]
 host = "localhost"
-password = "gay"
-username = "PsychoPass"
+password = "Awooooooooooo"
+username = "Pass"
 name = "PsychoPass"
 
 [server]
+# Use your server IP as host
 host = "0.0.0.0"
-port = 443
+port = 80
+
