@@ -1,0 +1,15 @@
+[general]
+# All fields are required for now
+token_size = 64
+# Telegram ID of the master account
+masterid = 792109647
+
+[database]
+host = "localhost"
+password = "gay"
+username = "PsychoPass"
+name = "PsychoPass"
+
+[server]
+host = "0.0.0.0"
+port = 443
